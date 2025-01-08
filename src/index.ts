@@ -94,7 +94,7 @@ const use_data = (data:contact)=>
 }
 
 const dummy_data_user : contact = {
-   phone : "9321550497",
+   phone : "9326733344247",
    address:{
     street:"hello maidaan",
     pincode : 400101
